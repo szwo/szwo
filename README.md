@@ -9,6 +9,12 @@ I'm a proud Penn State alum, aspiring photographer, and dog dad 🐶.
 
 Always looking to expand my horizons.
 
+## What am I working on?
+
+ - ✏️ Currently working through **Epic React** by Kent C. Dodds
+ - 💿 Exploring **Remix** for full-stack JS projects
+ - 🍣 Working on *Wasabi*, a personal React project for tracking Sushi-Go scores (hoping to translate this to Remix later!)
+
 ## Current Technologies
 
  - ⚛️ React
@@ -21,9 +27,3 @@ Always looking to expand my horizons.
  - 📈 GraphQL via urql
  - 🅰️🅱️ Optimizely Full Stack
  - ☁️ Google Cloud
-
-## Current Personal Projects
-
- - ✏️ Currently working through **Epic React** by Kent C. Dodds
- - 💿 Exploring **Remix** for full-stack JS projects
- - 🍣 Working on *Wasabi*, a personal React project for tracking Sushi-Go scores (hoping to translate this to Remix later!)
