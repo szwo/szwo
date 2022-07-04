@@ -11,7 +11,7 @@ Always looking to expand my horizons.
 
 ## Current Technologies
 
- - ⚛️ React (!)
+ - ⚛️ React
  - ✅ TypeScript
  - 💅 Sass / CSS Modules
  - 🤡 Jest
