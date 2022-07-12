@@ -12,6 +12,7 @@ Always looking to expand my horizons.
 ## What am I working on?
 
  - ✏️ Currently working through **Epic React** by Kent C. Dodds
+ - 💎 Loving Prisma for building out a new Express service connected to a Google Cloud SQL backend
  - 💿 Exploring **Remix** for full-stack JS projects
  - 🍣 Working on *Wasabi*, a personal React project for tracking Sushi-Go scores (hoping to translate this to Remix later!)
 
