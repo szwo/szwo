@@ -17,13 +17,13 @@ Always looking to expand my horizons.
 
 ## Current Technologies
 
- - ⚛️ React
+ - ⚛️ React & Next.js
  - ✅ TypeScript
- - 💅 Sass / CSS Modules
+ - 💅 Sass / CSS Modules / Tailwind
  - 🤡 Jest
  - 🧪 React Testing Library
- - 🪵 Cypress
  - 🏃‍♂️ Express JS, Node.js
- - 📈 GraphQL via urql
- - 🅰️🅱️ Optimizely Full Stack
- - ☁️ Google Cloud
+ - 📈 GraphQL, Apollo, and urql
+ - 🗄️ PostgreSQL via Prisma
+ - ☁️ Google Cloud Platform, Vercel
+ - 🚀 Astro
